@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there! I'm Laura Agudelo and currently I'm studying systems engineering.<br>I enjoy learning topics related with software development  and try to solve real-world <br>problems because with this I'll be able to know how everything is.
+# 💫 Hi there, I'm Laura Agudelo!:
+I'm studying systems engineering student.<br>I enjoy learning topics related with software development and try to solve real-world <br>problems because with this I'll be able to know how everything is.
 
 
 ## 🌐 Socials:
