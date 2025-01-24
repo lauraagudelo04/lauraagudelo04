@@ -15,7 +15,4 @@ I'm a systems engineering student.<br>I enjoy learning topics related with softw
 
 --- 
 [![](https://visitcount.itsvg.in/api?id=lauraagudelo04&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=lauraagudelo04&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
 
