@@ -1,4 +1,4 @@
-##💫Hi there, I'm Laura Agudelo!
+## 💫Hi there, I'm Laura Agudelo!
 I'm a systems engineering student.<br>I really enjoy learning topics related with software development and try to solve real-world <br>problems because with this I'll be able to know how everything is 👩🏽‍💻
 
 
