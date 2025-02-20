@@ -2,7 +2,7 @@
 I'm a systems engineering student.<br>I really enjoy learning topics related with software development and try to solve real-world <br>problems because with this I'll be able to know how everything is 👩🏽‍💻
 
 
-## 🌐📱 My Socials: 
+## 🌐📱 My Socials : 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-agudelo-marulanda-184771253/) 
 
 # 💻👩🏽‍💻 Tech Stack:
