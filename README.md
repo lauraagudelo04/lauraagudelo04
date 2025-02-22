@@ -13,7 +13,9 @@ I'm a systems engineering student.<br>I really enjoy learning topics related wit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lauraagudelo04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lauraagudelo04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
---- 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 [![](https://visitcount.itsvg.in/api?id=lauraagudelo04&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Profile Views](https://komarev.com/ghpvc/?username=lauraagudelo04&label=Profile%20views&color=0e75b6&style=flat)
+
 
